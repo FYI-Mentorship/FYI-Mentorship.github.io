@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fyi-mentor.github.io/sitemap.xml
+Sitemap: https://FYI-Mentorship.github.io/sitemap.xml
