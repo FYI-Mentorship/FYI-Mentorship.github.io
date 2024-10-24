@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://fyi-mentor.github.io/pages/FYI-Mentorship/fyi-mentor.github.io/sitemap.xml
