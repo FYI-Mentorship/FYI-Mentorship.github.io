@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2022-04-03 
+date: 2015-10-22 15:59:00-0400
 inline: true
+related_posts: false
 ---
 
-<a style= "font-size:20px"><b>Site draft live! :sparkles:</b></a>
+A simple inline announcement.
