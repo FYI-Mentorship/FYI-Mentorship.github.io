@@ -1,29 +1,112 @@
 ---
-layout: about
-title: About
+layout: home
+title: home
 permalink: /
-subtitle: Washington University in St. Louis, MO, USA # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+nav: false
+subtitle: null
 
-profile:
-  align: right
-  image: Yang_Ray.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Jolley Hall 408</p>
-    <p>St. Louis, MO</p>
+# profile:
+#   align: right
+#   address: >
+#     <p>555 your office number</p>
+#     <p>123 your address street</p>
+#     <p>Your City, State 12345</p>
 
-news: false # includes a list of news items
-latest_posts: false # includes a list of the newest posts
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
+#### *Empowering yourself to find your ideal mentor*
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Team members:
+- Moses Adejumo, Clarkson University, Chemical and Biomolecular Engineering
+- Mehri Azizi, Florida International University, Biological Sciences
+- Evelyn Kimbrough, National Institutes of Health, National Center for Advancing Translational Sciences
+- Damilola Lawore, Purdue University, Biomedical Engineering
+- Maria Mercedes, Icahn School of Medicine at Mount Sinai, Developmental & Regenerative Biology
+- Ray Yang, Washington University in St. Louis, Chemistry
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+<!-- <link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/custom.css"> -->
 
-Born and raised in Jinan (济南), China, I moved to New Zealand at a young age and completed my education there. After high school at Avondale College in Auckland, I left the big city to study at the University of Otago in Dunedin. I spent five wonderful years on the South Island, graduating in 2017 with a Bachelor of Science with First Class Honors, majoring in Chemistry and Mathematics, and minoring in Physics. I then returned to Auckland to begin a PhD program in Theoretical Physics under Prof. Joachim Brand at the New Zealand Institute for Advanced Study, Massey University. My research focused on implementing the full configuration interaction quantum Monte Carlo (FCIQMC) method for bosonic quantum gases, which also introduced me to the modern programming language Julia and research software engineering. After another five rewarding years, including the challenging COVID-19 period, I completed my PhD and received the Dean’s List of Exceptional Doctoral Theses award.
+<!-- <div style="text-align: center">
+<p>
+<b><h2 style="color: #09AD94">Images to Symbols Workshop: CogSci 2022</h2></b>
+</p>
+</div> -->
 
-In 2022, I moved to the United States for a postdoctoral position at Washington University in St. Louis, Missouri, working with Prof. Robert Wexler on developing a novel computational method called nested sampling. At WashU, I am actively involved in the Washington University Postdoc Society (WUPS), having served as a member of the Executive Council and Chair of the Networking and Wellness Committee. Recently, I was elected Vice President of WUPS and currently serve as the Chair of the Ad Hoc Finance and Resource Management Committee. As a postdoctoral researcher, I am dedicated to advancing our scientific projects and mentoring both undergraduate and graduate students in my group. As a community leader, I am committed to fostering a positive and supportive environment for all postdocs at WashU, which brings me great joy.
+<!-- <div>
+<img src="assets/custom_images/landing_page.png" width="80%" style="margin-left:10%; margin-right:10%">
+</div>
+
+<div id="container-header">
+
+<div style="text-align: center;"><p><h3>Drawing is a powerful technology for...</h3></p></div>
+<div style="margin-top: -15px; text-align: center;"><p><h3><span id="typing-text"></span></h3></p></div>
+</div>
+
+<div>
+<p>While drawings have long provided inspiration to researchers in many areas of cognitive science,
+including psychology, artificial intelligence, and neuroscience,
+these communities have not generally had opportunities to interact and share insights.
+At <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci 2022</a>, we bring these perspectives together.</p>
+
+<p>This workshop will explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration.<p>
+<p>We will be using a "flipped" workshop format:<p>
+<ul>
+
+<li><b>Before CogSci (Virtual)</b>. Join us for 3 virtual seminars each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively.</li>
+<li><b>At CogSci (Toronto)</b>. Join us for a poster session and discussion in-person in Toronto.</li></ul></p>
+
+<p>View the full workshop description <a href="https://cognitivesciencesociety.org/wp-content/uploads/2022/04/Paper-ID-1270-cogsci22a-sub1270-i10.pdf">here</a>.
+See the schedule of virtual seminars <a href = "https://images2symbols.github.io/schedule/">here</a>.
+</p>
+
+<!-- <div style="text-align: center;">
+<p>
+<h4>Call for poster abstracts! Submit an abstract <a href="https://images2symbols.github.io/abstracts/">here</a></h4>
+</p>
+</div> -->
+
+<!-- <div>
+Feel free to contact the organizers at: <a href="images2symbols@gmail.com">images2symbols@gmail.com</a>.
+</div>
+
+<div style="width: 100%">
+<ul>
+<div style="float: left; margin: 10px">
+<a href="https://cogtoolslab.github.io/people.html">
+  <img src="assets/custom_images/FanJE_photo.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://cogtoolslab.github.io/people.html"><b>Judith Fan</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>UCSD</p></span>
+</div>
+
+<div style="float: left; margin: 10px">
+<a href="https://hollyhuey.github.io/">
+  <img src="assets/custom_images/HueyH_photo.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://hollyhuey.github.io/"><b>Holly Huey</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>UCSD</p></span>
+</div>
+
+<div style="float: left; margin: 10px">
+<a href="https://kushinm.github.io/">
+  <img src="assets/custom_images/MukherjeeK_photo.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://kushinm.github.io/"><b>Kushin Mukherjee</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>UW Madison</p></span>
+</div>
+
+<div style="float: left; margin: 10px">
+<a href="http://concepts.psych.wisc.edu/?page_id=73">
+  <img src="assets/custom_images/Timothy-Rogers.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="http://concepts.psych.wisc.edu/?page_id=73"><b>Timothy Rogers</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>UW Madison</p></span>
+</div>
+</ul>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+<script src="{{ site.baseurl | prepend: site.url }}/typing.js"> -->
