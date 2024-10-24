@@ -4,6 +4,7 @@ title: schedule
 nav: true
 dropdown: false
 permalink: /schedule/
+published: false
 # children:
 #     # - title: pre-conference talks
 #     #   permalink: /preconf/

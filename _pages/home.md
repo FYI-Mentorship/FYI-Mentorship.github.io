@@ -16,7 +16,18 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/custom.css">
+#### *Empowering yourself to find your ideal mentor*
+
+## Team members:
+- Moses Adejumo, Clarkson University, Chemical and Biomolecular Engineering
+- Mehri Azizi, Florida International University, Biological Sciences
+- Evelyn Kimbrough, National Institutes of Health, National Center for Advancing Translational Sciences
+- Damilola Lawore, Purdue University, Biomedical Engineering
+- Maria Mercedes, Icahn School of Medicine at Mount Sinai, Developmental & Regenerative Biology
+- Ray Yang, Washington University in St. Louis, Chemistry
+
+
+<!-- <link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/custom.css"> -->
 
 <!-- <div style="text-align: center">
 <p>
@@ -24,7 +35,7 @@ social: false  # includes social icons at the bottom of the page
 </p>
 </div> -->
 
-<div>
+<!-- <div>
 <img src="assets/custom_images/landing_page.png" width="80%" style="margin-left:10%; margin-right:10%">
 </div>
 
@@ -57,7 +68,7 @@ See the schedule of virtual seminars <a href = "https://images2symbols.github.io
 </p>
 </div> -->
 
-<div>
+<!-- <div>
 Feel free to contact the organizers at: <a href="images2symbols@gmail.com">images2symbols@gmail.com</a>.
 </div>
 
@@ -98,4 +109,4 @@ Feel free to contact the organizers at: <a href="images2symbols@gmail.com">image
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
-<script src="{{ site.baseurl | prepend: site.url }}/typing.js">
+<script src="{{ site.baseurl | prepend: site.url }}/typing.js"> -->

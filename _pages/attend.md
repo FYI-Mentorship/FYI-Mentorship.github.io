@@ -4,6 +4,7 @@ title: attend
 nav: true
 dropdown: false
 permalink: /seminar/
+published: false
 ---
 
 <div style="text-align: center;">
