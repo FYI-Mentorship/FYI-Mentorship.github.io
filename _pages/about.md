@@ -24,18 +24,20 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-#### *Empowering yourself to find your ideal mentor*
+![ABRCMS](https://abrcms.org/wp-content/uploads/2024/02/abrcms-logo.png.webp)
 
-## Problem
+# ***Empowering yourself to find your ideal mentor***
+
+## The problem
 Early-career scientists, especially undergraduates and graduates, often lack strategies and resources to approach potential mentors, making it difficult to find the right guidance and support for their career paths.
 
-## Goal
+## The goal
 Create materials and resources (email templates, checklists, guides) that empower early-career scientists to confidently reach out to mentors, improving their chances of building meaningful mentoring relationships.
 
 ## Team members:
-- Moses Adejumo, Clarkson University, Chemical and Biomolecular Engineering
-- Mehri Azizi, Florida International University, Biological Sciences
-- Evelyn Kimbrough, National Institutes of Health, National Center for Advancing Translational Sciences
-- Damilola Lawore, Purdue University, Biomedical Engineering
-- Maria Mercedes, Icahn School of Medicine at Mount Sinai, Developmental & Regenerative Biology
-- Ray Yang, Washington University in St. Louis, Chemistry
+- **Moses Adejumo**, Clarkson University, Chemical and Biomolecular Engineering
+- **Mehri Azizi**, Florida International University, Biological Sciences
+- **Evelyn Kimbrough**, National Institutes of Health, National Center for Advancing Translational Sciences
+- **Damilola Lawore**, Purdue University, Biomedical Engineering
+- **Maria Mercedes**, Icahn School of Medicine at Mount Sinai, Developmental & Regenerative Biology
+- **Ray Yang**, Washington University in St. Louis, Chemistry
