@@ -24,7 +24,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-![ABRCMS](https://abrcms.org/wp-content/uploads/2024/02/abrcms-logo.png.webp)
+<!-- ![ABRCMS](https://abrcms.org/wp-content/uploads/2024/07/ABRCMS-Innovation-24-Logo-RGB-1024x352.png.webp) -->
+
+<img src="https://abrcms.org/wp-content/uploads/2024/07/ABRCMS-Innovation-24-Logo-RGB-1024x352.png.webp" alt="ABRCMS" width="425"/>
 
 # ***Empowering yourself to find your ideal mentor***
 
