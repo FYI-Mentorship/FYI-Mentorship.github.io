@@ -28,13 +28,14 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  - align: right 
-    content: ppl_mehri.md
+  - align: left
+    image: moses.jpeg 
+    content: ppl_moses.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
   - align: right 
-    content: ppl_moses.md
+    content: ppl_mehri.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
