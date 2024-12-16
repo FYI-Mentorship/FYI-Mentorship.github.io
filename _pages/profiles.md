@@ -35,12 +35,14 @@ profiles:
     more_info: >
 
   - align: right 
+    image: mehri.jpeg
     content: ppl_mehri.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  - align: right 
-    content: ppl_demi.md
+  - align: left 
+    image: dami.jpeg
+    content: ppl_dami.md
     image_circular: false # crops the image to make it circular
     more_info: >
 ---
