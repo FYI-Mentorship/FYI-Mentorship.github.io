@@ -40,7 +40,6 @@ Create materials and resources (email templates, checklists, guides) that empowe
 ### **Team members:**
 - **Moses Adejumo**, Clarkson University, Chemical and Biomolecular Engineering
 - **Mehri Azizi**, Florida International University, Biological Sciences
-- **Evelyn Kimbrough**, National Institutes of Health, National Center for Advancing Translational Sciences
 - **Damilola Lawore**, Purdue University, Biomedical Engineering
 - **Maria Mercedes**, Icahn School of Medicine at Mount Sinai, Developmental & Regenerative Biology
 - **Ray Yang**, Washington University in St. Louis, Chemistry
